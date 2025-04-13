@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    "#!#",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "createmotorsadditions:copper_wire"
+    },
+    "!": {
+      "item": "createmotorsadditions:spool"
+    }
+  },
+  "result": {
+    "id": "createmotorsadditions:copper_spool",
+    "count": 1
+  }
+}

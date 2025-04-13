@@ -1,0 +1,9 @@
+{
+  "item.createmotorsadditions.copper_wire": "Copper Wire",
+  "item.createmotorsadditions.spool": "Spool",
+  "item.createmotorsadditions.copper_spool": "Copper Spool",
+
+  "block.createmotorsadditions.electric_motor": "Electric Motor",
+
+  "creativetab.createmotorsadditions.main": "Create: Motors & Additions"
+}
